@@ -1,0 +1,7 @@
+stateDiagram-v2
+    [*] --> Standby
+    Standby --> BioStreamIngress: Encrypted Patient Telemetry Arrives
+    BioStreamIngress --> SRAMKernelCheck: VRAM < 50GB Verified
+    SRAMKernelCheck --> FederatedDamping: Drift > 0.25 -> Apply 1.35x Damping
+    FederatedDamping --> ZDRPurge: 2-Pass Physical Wipe (0xAA -> 0x00)
+    ZDRPurge --> [*]: WORM Receipt Sealed & PHI Residual = 0.00MB

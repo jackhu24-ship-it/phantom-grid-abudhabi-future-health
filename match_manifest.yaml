@@ -1,0 +1,28 @@
+# PHANToM GRID :: Match Manifest
+tournament_id: 202611_Future_Health_Innovation_AbuDhabi
+tournament_name: 'Future Health Digital Innovation Challenge'
+organizer: 'Abu Dhabi (ADPHC) in collaboration with Microsoft, Inception, MBZUAI, Hack2skill'
+target_platform: 'Hack2skill / Dubai GITEX Global'
+prize_pool_usd: 105000
+prizes:
+  first_place: 50000
+  second_place: 35000
+  third_place: 20000
+ip_policy: '100% Retain IP (Zero Fees)'
+deadlines:
+  registration_deadline: '2026-11-10'
+  submission_deadline: '2026-11-20'
+  gitex_dubai_finals: '2026-12-07 ~ 2026-12-11'
+tracks:
+  - Fertility
+  - Population Health (ADPHC Focus: Precision Screening, Early Warning, Worker Safety, Cognitive Assessment)
+  - Wellbeing
+target_deliverables:
+  - '01_Specs'
+  - '02_Algorithms'
+  - '03_Prototype_Software'
+  - '04_Slides_PDF'
+  - '05_DemoVideo_1440P'
+  - '06_GitHub_Public_Repo'
+  - '07_Submission_Package'
+status: 'SCOUTED_AND_LOGGED'

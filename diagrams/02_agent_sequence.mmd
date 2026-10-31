@@ -1,0 +1,15 @@
+sequenceDiagram
+    autonumber
+    actor Clinician as ICU / Remote Clinician
+    participant Edge as Sovereign Bio-Edge Runner
+    participant Kernel as SRAM Bio-Kernel (<=1.85us)
+    participant Engine as Federated Health Engine
+    participant Vault as WORM Audit Vault
+
+    Clinician->>Edge: Stream Encrypted Patient Bio-Telemetry
+    Edge->>Kernel: Execute Microsecond Arrhythmia & Sepsis Check
+    Kernel-->>Edge: Latency <= 1.85us Verified
+    Edge->>Engine: Aggregate Federated Risk & Apply 1.35x Damping
+    Engine->>Engine: Execute 2-Pass ZDR Wipe on Raw PHI Buffer (0.00MB)
+    Engine->>Vault: Mint WORM-HEALTH-ABUDHABI Receipt
+    Vault-->>Clinician: Real-Time Clinical Alert + Zero PHI Leakage Proof
