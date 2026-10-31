@@ -1,7 +1,7 @@
 # PHANToM GRID :: Match Manifest
 tournament_id: 202611_Future_Health_Innovation_AbuDhabi
 tournament_name: 'Future Health Digital Innovation Challenge'
-organizer: 'Abu Dhabi (ADPHC) in collaboration with Microsoft, Inception, MBZUAI, Hack2skill'
+organizer: 'Abu Dhabi (ADPHC) in collaboration with Microsoft, Inception (G42), MBZUAI, Hack2skill'
 target_platform: 'Hack2skill / Dubai GITEX Global'
 prize_pool_usd: 105000
 prizes:
@@ -25,4 +25,10 @@ target_deliverables:
   - '05_DemoVideo_1440P'
   - '06_GitHub_Public_Repo'
   - '07_Submission_Package'
-status: 'SCOUTED_AND_LOGGED'
+status: 'TEAM_REGISTERED_ACTIVE'
+team_name: 'PHANToM-GRID'
+team_leader: 'HU JIUN REN (jackhu24@gmail.com)'
+dashboard_team_url: 'https://hack2skill.com/event/futurehealthchallenge/dashboard/team-management?utm_source=hack2skill&utm_medium=homepage'
+dashboard_submissions_url: 'https://hack2skill.com/event/futurehealthchallenge/dashboard/submissions'
+github_public_repo: 'https://github.com/jackhu24-ship-it/phantom-grid-abudhabi-future-health'
+video_demo_1440p: 'file:///G:/我的雲端硬碟/260803_opencode/01_賽事專區/202611_Future_Health_Innovation_AbuDhabi/05_DemoVideo_1440P/PHANTOM_GRID_202611_Future_Health_Innovation_AbuDhabi_Demo.mp4'
