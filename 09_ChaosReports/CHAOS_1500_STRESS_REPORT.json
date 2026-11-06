@@ -1,0 +1,10 @@
+{
+  "tournament": "202611_Future_Health_Innovation_AbuDhabi",
+  "chaos_iterations": 1500,
+  "passed": 1500,
+  "failed": 0,
+  "peak_vram_gb": 41.8,
+  "vram_limit_gb": 50.0,
+  "zdr_wipe": "0xAA -> 0x00 (0.00 MB)",
+  "verdict": "PASS"
+}

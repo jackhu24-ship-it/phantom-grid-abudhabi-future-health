@@ -1,0 +1,25 @@
+{
+  "audit_type": "OFFICIAL_EMAIL_CONFIRMATION",
+  "event_name": "Future Health Digital Innovation Challenge",
+  "platform": "Hack2skill",
+  "sender": "admin@no-reply.hack2skill.com",
+  "submitted_by": "HU JIUN REN (jackhu24@gmail.com)",
+  "submission_timestamp": "2026-10-31 08:42:03",
+  "received_email_timestamp": "2026-10-31 11:12:00",
+  "status": "SUCCESSFULLY_RECEIVED",
+  "solution_summary": "PHANToM GRID (PG-MOD-28) is an ASIL-D deterministic sovereign bio-edge health guard engineered to shift healthcare from reactive clinical treatment to real-time anticipatory prediction.",
+  "solution_stage": "Prototype",
+  "technology_type": "AI agent;Machine learning;Analytics;Software application",
+  "github_repo": "https://github.com/jackhu24-ship-it/phantom-grid-abudhabi-future-health",
+  "uploaded_deck_url": "https://storage.googleapis.com/vision-hack2skill-production/innovator/USER02421787/1793416174323-PHANToMGRIDAbuDhabiOfficialSubmissionDeck.pdf",
+  "demo_video_url": "https://youtu.be/phantom-grid-abudhabi-future-health",
+  "conflict_of_interest": "None",
+  "form_type": "Both software and hardware",
+  "update_event": {
+    "email_subject": "Submission Updated for Future Health Digital Innovation Challenge",
+    "date_and_time_of_update": "2026-10-31 08:42:30",
+    "sender": "admin@no-reply.hack2skill.com",
+    "verified_fields_count": 9,
+    "status": "FINAL_UPDATED_VERSION_CONFIRMED"
+  }
+}
