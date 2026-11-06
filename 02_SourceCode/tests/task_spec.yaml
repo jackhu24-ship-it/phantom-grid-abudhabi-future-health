@@ -1,0 +1,6 @@
+module_id: PG-MOD-28-ABUDHABI-HEALTH
+prize_pool_usd: 105000
+max_latency_us: 1.85
+vram_meltdown_gb: 50.0
+damping_factor: 1.35
+zdr_residual_mb: 0.0

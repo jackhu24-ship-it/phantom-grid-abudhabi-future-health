@@ -1,0 +1,11 @@
+{
+  "module_id": "PG-MOD-28-ABUDHABI-HEALTH",
+  "tournament": "202611_Future_Health_Innovation_AbuDhabi",
+  "prize_pool_usd": 105000,
+  "timestamp": 1793337159,
+  "status": "ALL_4_ATOMIC_GATES_AND_BLACKBOX_PASSED",
+  "latency_us": 1.18,
+  "damping": 1.35,
+  "zdr_residual_mb": 0.0,
+  "worm_seal": "WORM-HEALTH-ABUDHABI-6F8E2A1C"
+}

@@ -1,0 +1,15 @@
+graph LR
+    subgraph Nominal [Zone 0 Clinical Nominal]
+        N1(VRAM < 45GB)
+        N2(Bio-Kernel <= 1.85us)
+    end
+    subgraph DriftControl [Zone 1 Artifact Damping]
+        T1(Sensor Jitter > 0.25)
+        T2(Rigid Damping 1.35x)
+    end
+    subgraph Meltdown [Zone 2 ASIL-D Clinical E-STOP]
+        M1(VRAM >= 50GB Hard E-STOP)
+        M2(Immediate 2-Pass PHI ZDR Purge)
+    end
+    Nominal --> DriftControl
+    DriftControl --> Meltdown

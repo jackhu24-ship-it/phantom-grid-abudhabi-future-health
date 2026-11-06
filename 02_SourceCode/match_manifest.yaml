@@ -1,0 +1,34 @@
+# PHANToM GRID :: Match Manifest
+tournament_id: 202611_Future_Health_Innovation_AbuDhabi
+tournament_name: 'Future Health Digital Innovation Challenge'
+organizer: 'Abu Dhabi (ADPHC) in collaboration with Microsoft, Inception (G42), MBZUAI, Hack2skill'
+target_platform: 'Hack2skill / Dubai GITEX Global'
+prize_pool_usd: 105000
+prizes:
+  first_place: 50000
+  second_place: 35000
+  third_place: 20000
+ip_policy: '100% Retain IP (Zero Fees)'
+deadlines:
+  registration_deadline: '2026-11-10'
+  submission_deadline: '2026-11-20'
+  gitex_dubai_finals: '2026-12-07 ~ 2026-12-11'
+tracks:
+  - Fertility
+  - Population Health (ADPHC Focus: Precision Screening, Early Warning, Worker Safety, Cognitive Assessment)
+  - Wellbeing
+target_deliverables:
+  - '01_Specs'
+  - '02_Algorithms'
+  - '03_Prototype_Software'
+  - '04_Slides_PDF'
+  - '05_DemoVideo_1440P'
+  - '06_GitHub_Public_Repo'
+  - '07_Submission_Package'
+status: 'TEAM_REGISTERED_ACTIVE'
+team_name: 'PHANToM-GRID'
+team_leader: 'HU JIUN REN (jackhu24@gmail.com)'
+dashboard_team_url: 'https://hack2skill.com/event/futurehealthchallenge/dashboard/team-management?utm_source=hack2skill&utm_medium=homepage'
+dashboard_submissions_url: 'https://hack2skill.com/event/futurehealthchallenge/dashboard/submissions'
+github_public_repo: 'https://github.com/jackhu24-ship-it/phantom-grid-abudhabi-future-health'
+video_demo_1440p: 'file:///G:/我的雲端硬碟/260803_opencode/01_賽事專區/202611_Future_Health_Innovation_AbuDhabi/05_DemoVideo_1440P/PHANTOM_GRID_202611_Future_Health_Innovation_AbuDhabi_Demo.mp4'
